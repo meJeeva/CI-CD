@@ -11,7 +11,8 @@ const App = () => {
     }}>
       <Text style={{
         color : 'white',
-        fontSize : 20
+        fontSize : 20,
+        fontStyle:'italic'
       }}>PRACTICE CI/CD PIPELINES</Text>
     </View>
   )
