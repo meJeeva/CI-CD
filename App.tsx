@@ -10,7 +10,7 @@ const App = () => {
       justifyContent:'center'
     }}>
       <Text style={{
-        color : 'white',
+        color : 'red',
         fontSize : 20,
         fontStyle:'italic'
       }}>PRACTICE CI/CD PIPELINES</Text>
